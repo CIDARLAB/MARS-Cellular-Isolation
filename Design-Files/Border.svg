@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="135.8mm"
+   height="85.80000000000003mm"
+   viewBox="0 0 135800 85800.00000000003"
+   version="1.1"
+   id="svg74"
+   sodipodi:docname="Border.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata78">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview76"
+     showgrid="false"
+     inkscape:zoom="1.1183419"
+     inkscape:cx="195.40044"
+     inkscape:cy="126.24028"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg74" />
+  <defs
+     id="defs22">
+    <radialGradient
+       cx="111000"
+       cy="40000"
+       r="2020"
+       gradientUnits="userSpaceOnUse"
+       id="color-1">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop4" />
+    </radialGradient>
+    <radialGradient
+       cx="97000"
+       cy="29100"
+       r="2020"
+       gradientUnits="userSpaceOnUse"
+       id="color-2">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop9" />
+    </radialGradient>
+    <radialGradient
+       cx="97000"
+       cy="50000"
+       r="2020"
+       gradientUnits="userSpaceOnUse"
+       id="color-3">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop12" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop14" />
+    </radialGradient>
+    <radialGradient
+       cx="22900"
+       cy="40000"
+       r="2020"
+       gradientUnits="userSpaceOnUse"
+       id="color-4">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop17" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop19" />
+    </radialGradient>
+  </defs>
+  <g
+     stroke-width="none"
+     stroke-miterlimit="10"
+     font-weight="none"
+     font-size="none"
+     text-anchor="none"
+     style="mix-blend-mode: normal"
+     id="g72"
+     font-family="none"
+     stroke-dashoffset="0"
+     stroke-dasharray=""
+     stroke-linejoin="miter"
+     stroke-linecap="butt"
+     stroke="none"
+     fill-rule="nonzero"
+     fill="none">
+    <path
+       d="M400,85000h-800v-85000h800z"
+       id="path56"
+       stroke-width="0"
+       fill="#1a237e" />
+    <path
+       d="M135000,84600v800l-135000,0v-800z"
+       id="path58"
+       stroke-width="0"
+       fill="#1a237e" />
+    <path
+       d="M134600,0h800v85000h-800z"
+       id="path60"
+       stroke-width="0"
+       fill="#1a237e" />
+    <path
+       d="M0,400v-800h135000v800z"
+       id="path62"
+       stroke-width="0"
+       fill="#1a237e" />
+  </g>
+</svg>
